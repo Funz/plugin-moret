@@ -38,7 +38,10 @@ before_deploy:
 deploy:
   provider: releases
   api_key:
-    secure: __PUT_YOUR_GITHUB_ACCESS_KEY_HERE__:_'travis_setup_releases_--force'_will_generate_a_correct_.travis.yml
+    secure: wKAADBeV98g1fZ7b4Gt+8usIR/ylsDTbl6TWrRHsAqTfPlrNzUpdHp0HIH2u9QF+aWz9gdbZR5wrtkNw82gDDqUqEOIaCrt37YUTNxB3d0y+KZfQ5LucV74uNvXXLvk1BI66ZlzbT8n/uKVVTjdw7IPOo4dlYoj4CIIisrjvU+JT5y+AP47oiamUjOQMUGc2K7JeVxk
+gY1HBg3bal8P1mqhCyorgYncZrqBw6ibGQq75gsExWfCMRAwrgkOIC+feLwxig8XsfMmgaKbEJpC+7C6ZxmvZ111gBlZBP1XH/zxqdWeKND3cmrKhUPTIfHekVam6BAWitSPKbWxZLFJudGhIpaQeN1ZBzlMWsz9YyddkVHVMROkUm9hb7d5bBTdUnuW2A1dtVnLEg+GMcfUyJOuwnE
+/JiYHQNevmoKsu6k8jWTvaaTBWhhB5uVubtwf79BpOLoF2LF933R0FI0EsJm2IkVOeROS0qouvsSZyAkoP5JZQ3Y4kj627FgN8CJxEBgXmqgTohfO30JVKzsU07+p1F+yo/Gl0HkafnHiVq1m/6Wb0uLSfZ7CS8tWe3EqG/VQl9NJj0mH1UHTYQX5M5TyMhfhxyL46pn36jVRcPnrpw
+11GDfTd1/AqsFgeVEXcyIlpd1ZnC+woP5no0hbfEvC4a8PEQSTce6LgJWETTJo=
   file_glob: true
   file:
     - Funz-*.zip
