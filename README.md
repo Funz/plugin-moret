@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/Funz/plugin-moret.png)](https://travis-ci.org/Funz/plugin-moret)
+[![Build Status](https://travis-ci.org/Funz/plugin-Moret.png)](https://travis-ci.org/Funz/plugin-Moret)
 
-# Funz plugin: moret
+# Funz plugin: Moret
 
 This plugin is dedicated to launch MORET calculations from Funz.
 It supports the following syntax and features:
@@ -57,4 +57,4 @@ It supports the following syntax and features:
           * sigma_keff=0.00100
 
 
-![Analytics](https://ga-beacon.appspot.com/UA-109580-20/plugin-moret)
+![Analytics](https://ga-beacon.appspot.com/UA-109580-20/plugin-Moret)
