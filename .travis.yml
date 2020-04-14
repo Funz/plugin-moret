@@ -31,9 +31,9 @@ script:
 
 before_deploy:
   - ant clean dist
-  - cd dist; zip -r ../plugin-moret.zip *; cd ..
+  - cd dist; zip -r ../plugin-Moret.zip *; cd ..
   - ant install
-  - zip -r Funz-moret.zip Funz-moret
+  - zip -r Funz-Moret.zip Funz-Moret
   
 deploy:
   provider: releases
