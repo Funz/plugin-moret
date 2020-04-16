@@ -26,8 +26,10 @@ install:
   - git clone https://github.com/Funz/funz-profile
   - cd $WD
 
-script: 
+script:
+  - mv plugin-moret plugin-Moret
   - ant test
+  - mv plugin-Moret plugin-moret
 
 before_deploy:
   - ant clean dist
