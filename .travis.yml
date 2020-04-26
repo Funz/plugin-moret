@@ -29,7 +29,7 @@ install:
 script:
   - mv plugin-moret plugin-Moret
   - ant test
-  - mv plugin-Moret plugin-moret
+  #- mv plugin-Moret plugin-moret
 
 before_deploy:
   - ant clean dist
