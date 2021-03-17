@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Funz/plugin-Moret.png)](https://travis-ci.org/Funz/plugin-Moret)
+[![.github/workflows/ant.yml](https://github.com/Funz/plugin-Moret/actions/workflows/ant.yml/badge.svg)](https://github.com/Funz/plugin-Moret/actions/workflows/ant.yml)
 
 # Funz plugin: Moret
 
